@@ -1,4 +1,4 @@
-# Project Title
+# Mental Health AI
 
 Final project for the Building AI course
 
